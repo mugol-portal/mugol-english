@@ -288,6 +288,18 @@ const veri_a1_kelime = [
   { type:"choice", question:"Hangisi 'Boya kalemi' anlamına gelir?", options:[{text:"Pen",emoji:""},{text:"Crayon",emoji:""},{text:"Marker",emoji:""}], answer:"Crayon" },
   { type:"choice", question:"Hangisi 'Sınıf' anlamına gelir?", options:[{text:"Classroom",emoji:""},{text:"Gym",emoji:""},{text:"Lab",emoji:""}], answer:"Classroom" },
   { type:"choice", question:"Hangisi 'Tahta' anlamına gelir?", options:[{text:"Wall",emoji:""},{text:"Board",emoji:""},{text:"Desk",emoji:""}], answer:"Board" },
-  { type:"choice", question:"Hangisi 'Kütüphane' anlamına gelir?", options:[{text:"Library",emoji:""},{text:"Store",emoji:""},{text:"Office",emoji:""}], answer:"Library" }
+  { type:"choice", question:"Hangisi 'Kütüphane' anlamına gelir?", options:[{text:"Library",emoji:""},{text:"Store",emoji:""},{text:"Office",emoji:""}], answer:"Library" }, 
+  { type:"choice", question:"Hangisi 'Gözlük' anlamına gelir?", options:[{text:"Glasses",emoji:""},{text:"Watch",emoji:""},{text:"Ring",emoji:""}], answer:"Glasses" },
+  { type:"choice", question:"Hangisi 'Cüzdan' anlamına gelir?", options:[{text:"Bag",emoji:""},{text:"Wallet",emoji:""},{text:"Pocket",emoji:""}], answer:"Wallet" },
+  { type:"choice", question:"Hangisi 'Mutfak' anlamına gelir?", options:[{text:"Garden",emoji:""},{text:"Kitchen",emoji:""},{text:"Garage",emoji:""}], answer:"Kitchen" },
+  { type:"choice", question:"Hangisi 'Banyo' anlamına gelir?", options:[{text:"Bedroom",emoji:""},{text:"Bathroom",emoji:""},{text:"Balcony",emoji:""}], answer:"Bathroom" },
+  { type:"choice", question:"Hangisi 'Pencere' anlamına gelir?", options:[{text:"Door",emoji:""},{text:"Window",emoji:""},{text:"Wall",emoji:""}], answer:"Window" },
+  { type:"choice", question:"Hangisi 'Sandalye' anlamına gelir?", options:[{text:"Table",emoji:""},{text:"Chair",emoji:""},{text:"Bed",emoji:""}], answer:"Chair" },
+  { type:"choice", question:"Hangisi 'Şehir' anlamına gelir?", options:[{text:"Village",emoji:""},{text:"City",emoji:""},{text:"Street",emoji:""}], answer:"City" },
+  { type:"choice", question:"Hangisi 'Hava' anlamına gelir?", options:[{text:"Weather",emoji:""},{text:"Water",emoji:""},{text:"Land",emoji:""}], answer:"Weather" },
+  { type:"choice", question:"Hangisi 'Öğle yemeği' anlamına gelir?", options:[{text:"Breakfast",emoji:""},{text:"Lunch",emoji:""},{text:"Dinner",emoji:""}], answer:"Lunch" },
+  { type:"choice", question:"Hangisi 'Meyve suyu' anlamına gelir?", options:[{text:"Tea",emoji:""},{text:"Juice",emoji:""},{text:"Coffee",emoji:""}], answer:"Juice" },
+  { type:"choice", question:"Hangisi 'Peynir' anlamına gelir?", options:[{text:"Butter",emoji:""},{text:"Cheese",emoji:""},{text:"Egg",emoji:""}], answer:"Cheese" },
+ 
 ];
  
